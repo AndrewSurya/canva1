@@ -11,6 +11,7 @@
         <div>
             first commit
             added description for commit from another branch
+            edited by another acccount to create pull request
         </div>
     </form>
 </body>
