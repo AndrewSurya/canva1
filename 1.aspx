@@ -10,6 +10,7 @@
     <form id="form1" runat="server">
         <div>
             first commit
+            added description for commit from another branch
         </div>
     </form>
 </body>
